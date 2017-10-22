@@ -5,4 +5,4 @@ So quickly wrote a script to downloads video from different youtube links.
 
 Usage:
 
-./vdo-dl "/path/to/save" "text.txt"
+./vdo-dl.sh "/path/to/save" "text.txt"
