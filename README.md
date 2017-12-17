@@ -1,6 +1,7 @@
-For some reason we need to download some videos from youtube. youtube-dl is open source tool to download youtube video. I did not explore the tool to see if it can download all videos that is saved in a text file. 
+For Various reason we may need to download some videos from youtube. youtube-dl is a open source tool to download video from youtube. 
 
-So quickly wrote a script to downloads video from different youtube links.
+Most of the time peoples needed to download multiples video from different youtube url. I did not check if there is any option in youtube-dl to take input from file. Without checking the tool i decided to write this script.
+
 
 
 Usage:
